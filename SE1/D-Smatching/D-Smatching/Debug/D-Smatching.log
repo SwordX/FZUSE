@@ -1,0 +1,12 @@
+﻿  源.cpp
+e:\core\se\d-smatching\d-smatching\myjson.h(21): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\myjson.h(47): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\mtime.h(13): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\mtime.h(22): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\mtime.h(12): warning C4101: “j”: 未引用的局部变量
+e:\core\se\d-smatching\d-smatching\mtime.h(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\mtime.h(69): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\mtime.h(105): warning C4018: “<”: 有符号/无符号不匹配
+e:\core\se\d-smatching\d-smatching\mtime.h(112): warning C4018: “<”: 有符号/无符号不匹配
+  D-Smatching.vcxproj -> E:\core\SE\D-Smatching\Debug\D-Smatching.exe
+  D-Smatching.vcxproj -> E:\core\SE\D-Smatching\Debug\D-Smatching.pdb (Partial PDB)

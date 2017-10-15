@@ -1,0 +1,1746 @@
+{
+   "departments" : [
+      {
+         "available_time" : [ "Wed.12:00-14:00", "Fri.21:00-23:00", "Mon.13:00-15:00" ],
+         "department_name" : "tlnfbmge",
+         "department_num" : "014359252781800",
+         "member_limit" : 10,
+         "tags" : [ "connecting", "painting", "fighting" ]
+      },
+      {
+         "available_time" : [ "Wed.17:00-19:00", "Mon.14:00-16:00", "Wed.21:00-23:00" ],
+         "department_name" : "hgexshbn",
+         "department_num" : "824145406111576",
+         "member_limit" : 11,
+         "tags" : [ "speaking", "fighting", "painting" ]
+      },
+      {
+         "available_time" : [ "Sun.18:00-20:00", "Thu.17:00-19:00", "Sat.18:00-20:00" ],
+         "department_name" : "gzxdjqil",
+         "department_num" : "850231188553464",
+         "member_limit" : 9,
+         "tags" : [ "connecting", "high", "singing" ]
+      },
+      {
+         "available_time" : [ "Sat.17:00-19:00", "Tue.21:00-23:00", "Mon.21:00-23:00" ],
+         "department_name" : "ycrqmsaz",
+         "department_num" : "988847755666941",
+         "member_limit" : 6,
+         "tags" : [ "sincere", "painting", "happy" ]
+      },
+      {
+         "available_time" : [ "Sun.21:00-23:00", "Sun.21:00-23:00", "Tue.16:00-18:00" ],
+         "department_name" : "phqfalow",
+         "department_num" : "018964030084221",
+         "member_limit" : 5,
+         "tags" : [ "painting", "high", "happy" ]
+      },
+      {
+         "available_time" : [ "Wed.16:00-18:00", "Wed.19:00-21:00", "Mon.12:00-14:00" ],
+         "department_name" : "tgpzlfhh",
+         "department_num" : "296970204622725",
+         "member_limit" : 13,
+         "tags" : [ "painting", "loving", "high" ]
+      },
+      {
+         "available_time" : [ "Fri.13:00-15:00", "Sun.17:00-19:00", "Sat.15:00-17:00" ],
+         "department_name" : "nsyiocqs",
+         "department_num" : "011394208317618",
+         "member_limit" : 11,
+         "tags" : [ "painting", "connecting", "dancing" ]
+      },
+      {
+         "available_time" : [ "Tue.18:00-20:00", "Wed.14:00-16:00", "Thu.13:00-15:00" ],
+         "department_name" : "vsvofnca",
+         "department_num" : "267471301836185",
+         "member_limit" : 14,
+         "tags" : [ "sincere", "fighting", "swimming" ]
+      },
+      {
+         "available_time" : [ "Tue.13:00-15:00", "Tue.13:00-15:00", "Fri.18:00-20:00" ],
+         "department_name" : "qesltlte",
+         "department_num" : "894754176912859",
+         "member_limit" : 10,
+         "tags" : [ "sincere", "high", "joking" ]
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Wed.12:00-14:00", "Wed.20:00-22:00" ],
+         "department_name" : "lcrmnmnc",
+         "department_num" : "884322039044936",
+         "member_limit" : 9,
+         "tags" : [ "painting", "singing", "girls" ]
+      },
+      {
+         "available_time" : [ "Wed.18:00-20:00", "Wed.19:00-21:00", "Mon.19:00-21:00" ],
+         "department_name" : "ajrtdowc",
+         "department_num" : "265213216285443",
+         "member_limit" : 9,
+         "tags" : [ "loving", "careful", "swimming" ]
+      },
+      {
+         "available_time" : [ "Sat.12:00-14:00", "Sun.17:00-19:00", "Wed.16:00-18:00" ],
+         "department_name" : "zewzzwci",
+         "department_num" : "491340317701424",
+         "member_limit" : 6,
+         "tags" : [ "running", "girls", "singing" ]
+      },
+      {
+         "available_time" : [ "Mon.13:00-15:00", "Tue.19:00-21:00", "Wed.20:00-22:00" ],
+         "department_name" : "sugdnxos",
+         "department_num" : "140646026212380",
+         "member_limit" : 11,
+         "tags" : [ "high", "singing", "speaking" ]
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Fri.13:00-15:00", "Fri.15:00-17:00" ],
+         "department_name" : "vmtqksab",
+         "department_num" : "254817773397509",
+         "member_limit" : 14,
+         "tags" : [ "dancing", "grateful", "peace" ]
+      },
+      {
+         "available_time" : [ "Wed.16:00-18:00", "Tue.20:00-22:00", "Thu.15:00-17:00" ],
+         "department_name" : "hgleezla",
+         "department_num" : "084462443024555",
+         "member_limit" : 5,
+         "tags" : [ "dancing", "high", "sincere" ]
+      },
+      {
+         "available_time" : [ "Fri.16:00-18:00", "Mon.15:00-17:00", "Sat.12:00-14:00" ],
+         "department_name" : "mnpboiou",
+         "department_num" : "338152034311864",
+         "member_limit" : 5,
+         "tags" : [ "dancing", "swimming", "painting" ]
+      },
+      {
+         "available_time" : [ "Sat.17:00-19:00", "Mon.14:00-16:00", "Fri.18:00-20:00" ],
+         "department_name" : "yvbuzazq",
+         "department_num" : "317515943653298",
+         "member_limit" : 15,
+         "tags" : [ "connecting", "grateful", "loving" ]
+      },
+      {
+         "available_time" : [ "Sun.20:00-22:00", "Wed.17:00-19:00", "Tue.12:00-14:00" ],
+         "department_name" : "rldcnwda",
+         "department_num" : "737374023882086",
+         "member_limit" : 12,
+         "tags" : [ "dancing", "singing", "connecting" ]
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Thu.20:00-22:00", "Wed.15:00-17:00" ],
+         "department_name" : "wcczxkpq",
+         "department_num" : "142458080428383",
+         "member_limit" : 5,
+         "tags" : [ "happy", "singing", "high" ]
+      },
+      {
+         "available_time" : [ "Thu.18:00-20:00", "Thu.14:00-16:00", "Sun.12:00-14:00" ],
+         "department_name" : "azaajngi",
+         "department_num" : "903061818484812",
+         "member_limit" : 9,
+         "tags" : [ "connecting", "grateful", "careful" ]
+      }
+   ],
+   "students" : [
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Sat.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "ajrtdowc", "phqfalow", "qesltlte" ],
+         "interest" : [ "painting", "connecting", "careful" ],
+         "student_gap" : 7.0,
+         "student_name" : "bai_ma hongliang",
+         "student_num" : "03150943865961909762"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Thu.21:00-23:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "phqfalow", "gzxdjqil", "vsvofnca" ],
+         "interest" : [ "sincere", "grateful", "girls" ],
+         "student_gap" : 5.0,
+         "student_name" : "zheng jiehua",
+         "student_num" : "03150380108331560895"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Sat.21:00-23:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "mnpboiou", "tlnfbmge", "tgpzlfhh" ],
+         "interest" : [ "painting", "swimming", "happy" ],
+         "student_gap" : 4.0,
+         "student_name" : "ou_yang yuwen",
+         "student_num" : "03150134237971773459"
+      },
+      {
+         "available_time" : [ "Sun.13:00-15:00", "Thu.20:00-22:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "hgleezla", "vsvofnca", "tgpzlfhh" ],
+         "interest" : [ "running", "sincere", "careful" ],
+         "student_gap" : 9.0,
+         "student_name" : "feng yuzu",
+         "student_num" : "03150769422763273252"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sun.15:00-17:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "lcrmnmnc", "tgpzlfhh", "gzxdjqil" ],
+         "interest" : [ "running", "joking", "grateful" ],
+         "student_gap" : 1.0,
+         "student_name" : "zhao chaoha",
+         "student_num" : "03150599980833368579"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Tue.21:00-23:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "gzxdjqil", "nsyiocqs", "phqfalow" ],
+         "interest" : [ "singing", "careful", "high" ],
+         "student_gap" : 1.0,
+         "student_name" : "han yuming",
+         "student_num" : "03150215549920684845"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sun.15:00-17:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "hgexshbn", "nsyiocqs", "tlnfbmge" ],
+         "interest" : [ "loving", "peace", "connecting" ],
+         "student_gap" : 1.0,
+         "student_name" : "zhu_ge lingquanjiong",
+         "student_num" : "03150505166727510553"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Thu.21:00-23:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "nsyiocqs", "tlnfbmge" ],
+         "interest" : [ "high", "connecting", "running" ],
+         "student_gap" : 2.0,
+         "student_name" : "zhu_ge hailin",
+         "student_num" : "03150839507931199406"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Sun.13:00-15:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "zewzzwci", "tgpzlfhh", "tlnfbmge" ],
+         "interest" : [ "connecting", "loving", "speaking" ],
+         "student_gap" : 4.0,
+         "student_name" : "yang fangti",
+         "student_num" : "03150695162549691570"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Thu.20:00-22:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "yvbuzazq", "qesltlte", "tgpzlfhh" ],
+         "interest" : [ "speaking", "grateful", "loving" ],
+         "student_gap" : 4.0,
+         "student_name" : "cheng hantianzhe",
+         "student_num" : "03150818568653732591"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Thu.19:00-21:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "ycrqmsaz", "tgpzlfhh", "phqfalow" ],
+         "interest" : [ "high", "dancing", "painting" ],
+         "student_gap" : 9.0,
+         "student_name" : "yang yuha",
+         "student_num" : "03150307850950371002"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Sat.20:00-22:00", "Wed.19:00-21:00" ],
+         "intention_dep" : [ "qesltlte", "gzxdjqil", "tgpzlfhh" ],
+         "interest" : [ "swimming", "joking", "peace" ],
+         "student_gap" : 5.0,
+         "student_name" : "wu chenfan",
+         "student_num" : "03150522393533907676"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Mon.20:00-22:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "zewzzwci", "qesltlte", "ycrqmsaz" ],
+         "interest" : [ "girls", "careful", "fighting" ],
+         "student_gap" : 4.0,
+         "student_name" : "li pengcheng",
+         "student_num" : "03150218978751446818"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Thu.21:00-23:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "mnpboiou", "ycrqmsaz", "phqfalow" ],
+         "interest" : [ "speaking", "joking", "sincere" ],
+         "student_gap" : 2.0,
+         "student_name" : "chu shulin",
+         "student_num" : "03150299946348187056"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Tue.20:00-22:00", "Sun.14:00-16:00" ],
+         "intention_dep" : [ "phqfalow", "gzxdjqil", "tgpzlfhh" ],
+         "interest" : [ "grateful", "dancing", "painting" ],
+         "student_gap" : 4.0,
+         "student_name" : "qian haoliang",
+         "student_num" : "03150192512599322288"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Wed.21:00-23:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "azaajngi", "phqfalow", "tlnfbmge" ],
+         "interest" : [ "singing", "high", "sincere" ],
+         "student_gap" : 9.0,
+         "student_name" : "wang hanghan",
+         "student_num" : "03150633312785793372"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Thu.19:00-21:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "mnpboiou", "gzxdjqil", "tgpzlfhh" ],
+         "interest" : [ "sincere", "grateful", "joking" ],
+         "student_gap" : 9.0,
+         "student_name" : "wu chenfan",
+         "student_num" : "03150836355661225023"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Sat.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "sugdnxos", "gzxdjqil", "tlnfbmge" ],
+         "interest" : [ "peace", "dancing", "happy" ],
+         "student_gap" : 3.0,
+         "student_name" : "li zhijie",
+         "student_num" : "03150604775579446322"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Mon.19:00-21:00", "Sun.17:00-19:00" ],
+         "intention_dep" : [ "tgpzlfhh", "hgexshbn", "qesltlte" ],
+         "interest" : [ "running", "painting", "connecting" ],
+         "student_gap" : 6.0,
+         "student_name" : "sun yuzhe",
+         "student_num" : "03150505129310656145"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Tue.19:00-21:00", "Sun.16:00-18:00" ],
+         "intention_dep" : [ "ajrtdowc", "tlnfbmge", "qesltlte" ],
+         "interest" : [ "fighting", "connecting", "joking" ],
+         "student_gap" : 6.0,
+         "student_name" : "wang zhishe",
+         "student_num" : "03150022104313576616"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Sun.18:00-20:00", "Mon.20:00-22:00" ],
+         "intention_dep" : [ "hgexshbn", "nsyiocqs", "phqfalow" ],
+         "interest" : [ "singing", "peace", "connecting" ],
+         "student_gap" : 3.0,
+         "student_name" : "yang hailiang",
+         "student_num" : "03150579251911604749"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Sat.21:00-23:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "qesltlte", "hgexshbn", "phqfalow" ],
+         "interest" : [ "happy", "high", "connecting" ],
+         "student_gap" : 4.0,
+         "student_name" : "zhou haifan",
+         "student_num" : "03150036599952009931"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Sun.17:00-19:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "hgleezla", "phqfalow", "hgexshbn" ],
+         "interest" : [ "happy", "connecting", "running" ],
+         "student_gap" : 6.0,
+         "student_name" : "sun junwen",
+         "student_num" : "03150060108702673089"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Fri.21:00-23:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "mnpboiou", "tlnfbmge", "nsyiocqs" ],
+         "interest" : [ "grateful", "painting", "swimming" ],
+         "student_gap" : 10.0,
+         "student_name" : "sun yuzhe",
+         "student_num" : "03150574394436170502"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Mon.20:00-22:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "tgpzlfhh", "nsyiocqs", "hgexshbn" ],
+         "interest" : [ "dancing", "happy", "painting" ],
+         "student_gap" : 7.0,
+         "student_name" : "zhao pengchuan",
+         "student_num" : "03150672774206148137"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Fri.19:00-21:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "nsyiocqs", "phqfalow", "gzxdjqil" ],
+         "interest" : [ "high", "speaking", "happy" ],
+         "student_gap" : 7.0,
+         "student_name" : "wu fumao",
+         "student_num" : "03150319192525702094"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Mon.20:00-22:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "vsvofnca", "gzxdjqil", "hgexshbn" ],
+         "interest" : [ "careful", "high", "connecting" ],
+         "student_gap" : 10.0,
+         "student_name" : "wang hantianjian",
+         "student_num" : "03150495257829820597"
+      },
+      {
+         "available_time" : [ "Thu.21:00-23:00", "Mon.19:00-21:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "nsyiocqs", "vsvofnca", "qesltlte" ],
+         "interest" : [ "loving", "grateful", "connecting" ],
+         "student_gap" : 2.0,
+         "student_name" : "zhou haoming",
+         "student_num" : "03150922725361687001"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Tue.20:00-22:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "ajrtdowc", "vsvofnca", "gzxdjqil" ],
+         "interest" : [ "joking", "singing", "high" ],
+         "student_gap" : 9.0,
+         "student_name" : "shen wenqing",
+         "student_num" : "03150761122860099277"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Tue.19:00-21:00", "Sun.19:00-21:00" ],
+         "intention_dep" : [ "qesltlte", "tgpzlfhh", "phqfalow" ],
+         "interest" : [ "fighting", "happy", "girls" ],
+         "student_gap" : 7.0,
+         "student_name" : "chu zewei",
+         "student_num" : "03150080209354456762"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Tue.21:00-23:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "zewzzwci", "gzxdjqil", "qesltlte" ],
+         "interest" : [ "grateful", "sincere", "painting" ],
+         "student_gap" : 7.0,
+         "student_name" : "feng haoming",
+         "student_num" : "03150856805828394181"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Fri.20:00-22:00", "Wed.19:00-21:00" ],
+         "intention_dep" : [ "lcrmnmnc", "phqfalow", "nsyiocqs" ],
+         "interest" : [ "painting", "connecting", "singing" ],
+         "student_gap" : 10.0,
+         "student_name" : "bai_ma junfan",
+         "student_num" : "03150747814748913441"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Sat.21:00-23:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "yvbuzazq", "phqfalow", "tgpzlfhh" ],
+         "interest" : [ "swimming", "grateful", "fighting" ],
+         "student_gap" : 5.0,
+         "student_name" : "shen lanxuan",
+         "student_num" : "03150973471869220055"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Fri.21:00-23:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "ycrqmsaz", "gzxdjqil", "qesltlte" ],
+         "interest" : [ "happy", "grateful", "girls" ],
+         "student_gap" : 6.0,
+         "student_name" : "li xiongwu",
+         "student_num" : "03150626970923576111"
+      },
+      {
+         "available_time" : [ "Sun.19:00-21:00", "Fri.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "yvbuzazq", "nsyiocqs", "ycrqmsaz" ],
+         "interest" : [ "singing", "running", "grateful" ],
+         "student_gap" : 1.0,
+         "student_name" : "ou_yang hantianjin",
+         "student_num" : "03150224425110859543"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Fri.21:00-23:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "rldcnwda", "gzxdjqil", "phqfalow" ],
+         "interest" : [ "dancing", "singing", "joking" ],
+         "student_gap" : 10.0,
+         "student_name" : "wei chaofan",
+         "student_num" : "03150462190619705159"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sun.20:00-22:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "gzxdjqil", "ycrqmsaz", "vsvofnca" ],
+         "interest" : [ "high", "happy", "peace" ],
+         "student_gap" : 1.0,
+         "student_name" : "wang haoquanjiong",
+         "student_num" : "03150851003517604976"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Tue.21:00-23:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "hgexshbn", "nsyiocqs", "qesltlte" ],
+         "interest" : [ "dancing", "swimming", "high" ],
+         "student_gap" : 4.0,
+         "student_name" : "jiang chenxin",
+         "student_num" : "03150443085236177464"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Sat.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "tlnfbmge", "hgexshbn", "phqfalow" ],
+         "interest" : [ "dancing", "fighting", "speaking" ],
+         "student_gap" : 9.0,
+         "student_name" : "sun haoshe",
+         "student_num" : "03150514844767883841"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Tue.20:00-22:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "azaajngi", "gzxdjqil", "qesltlte" ],
+         "interest" : [ "girls", "happy", "speaking" ],
+         "student_gap" : 3.0,
+         "student_name" : "yang yuha",
+         "student_num" : "03150249214012669731"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Tue.19:00-21:00", "Wed.19:00-21:00" ],
+         "intention_dep" : [ "vsvofnca", "tlnfbmge", "tgpzlfhh" ],
+         "interest" : [ "grateful", "connecting", "sincere" ],
+         "student_gap" : 8.0,
+         "student_name" : "yang zhongchuan",
+         "student_num" : "03150924797352255842"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Sun.15:00-17:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "wcczxkpq", "tlnfbmge", "hgexshbn" ],
+         "interest" : [ "singing", "fighting", "painting" ],
+         "student_gap" : 7.0,
+         "student_name" : "cheng jiejian",
+         "student_num" : "03150802457166515410"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Sat.20:00-22:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "hgleezla", "ycrqmsaz", "hgexshbn" ],
+         "interest" : [ "joking", "swimming", "connecting" ],
+         "student_gap" : 8.0,
+         "student_name" : "qian xiongchuan",
+         "student_num" : "03150936542678850468"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Fri.21:00-23:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "sugdnxos", "phqfalow", "vsvofnca" ],
+         "interest" : [ "singing", "happy", "high" ],
+         "student_gap" : 10.0,
+         "student_name" : "yang haihua",
+         "student_num" : "03150612344125628503"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sat.19:00-21:00", "Sun.17:00-19:00" ],
+         "intention_dep" : [ "rldcnwda", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "high", "peace", "painting" ],
+         "student_gap" : 6.0,
+         "student_name" : "wang hantianjian",
+         "student_num" : "03150370712786847350"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Sat.19:00-21:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "qesltlte", "hgexshbn", "gzxdjqil" ],
+         "interest" : [ "happy", "joking", "running" ],
+         "student_gap" : 1.0,
+         "student_name" : "jiang jiajian",
+         "student_num" : "03150633873433413033"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Mon.19:00-21:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "phqfalow", "tgpzlfhh", "hgexshbn" ],
+         "interest" : [ "loving", "grateful", "sincere" ],
+         "student_gap" : 2.0,
+         "student_name" : "yang zhihua",
+         "student_num" : "03150975743317107954"
+      },
+      {
+         "available_time" : [ "Sun.17:00-19:00", "Wed.21:00-23:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "wcczxkpq", "ycrqmsaz", "hgexshbn" ],
+         "interest" : [ "swimming", "speaking", "sincere" ],
+         "student_gap" : 3.0,
+         "student_name" : "wu zhiwei",
+         "student_num" : "03150963164150508191"
+      },
+      {
+         "available_time" : [ "Sun.16:00-18:00", "Fri.20:00-22:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "hgleezla", "hgexshbn", "qesltlte" ],
+         "interest" : [ "grateful", "careful", "happy" ],
+         "student_gap" : 6.0,
+         "student_name" : "yang hailiang",
+         "student_num" : "03150281577477907297"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Mon.20:00-22:00", "Sun.14:00-16:00" ],
+         "intention_dep" : [ "rldcnwda", "hgexshbn", "tgpzlfhh" ],
+         "interest" : [ "girls", "dancing", "peace" ],
+         "student_gap" : 6.0,
+         "student_name" : "qian haopeng",
+         "student_num" : "03150814674879316912"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Sun.15:00-17:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "gzxdjqil", "hgexshbn", "qesltlte" ],
+         "interest" : [ "careful", "fighting", "painting" ],
+         "student_gap" : 1.0,
+         "student_name" : "shen lanxuan",
+         "student_num" : "03150728562393388644"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Wed.19:00-21:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "rldcnwda", "vsvofnca", "nsyiocqs" ],
+         "interest" : [ "joking", "fighting", "careful" ],
+         "student_gap" : 4.0,
+         "student_name" : "yang haihua",
+         "student_num" : "03150850204179435531"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Tue.19:00-21:00", "Sun.16:00-18:00" ],
+         "intention_dep" : [ "tlnfbmge", "vsvofnca", "gzxdjqil" ],
+         "interest" : [ "connecting", "running", "high" ],
+         "student_gap" : 5.0,
+         "student_name" : "cheng hantianzhe",
+         "student_num" : "03150585770889701161"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Fri.20:00-22:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "hgexshbn", "vsvofnca", "qesltlte" ],
+         "interest" : [ "peace", "sincere", "singing" ],
+         "student_gap" : 8.0,
+         "student_name" : "ou_yang hantianjin",
+         "student_num" : "03150146906397553438"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Sat.20:00-22:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "mnpboiou", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "speaking", "happy", "careful" ],
+         "student_gap" : 3.0,
+         "student_name" : "wei chaofan",
+         "student_num" : "03150213171428580651"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Mon.20:00-22:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "ajrtdowc", "tlnfbmge", "gzxdjqil" ],
+         "interest" : [ "dancing", "swimming", "painting" ],
+         "student_gap" : 4.0,
+         "student_name" : "chu lingti",
+         "student_num" : "03150463647241597388"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Thu.20:00-22:00", "Sun.16:00-18:00" ],
+         "intention_dep" : [ "vsvofnca", "hgexshbn", "qesltlte" ],
+         "interest" : [ "speaking", "dancing", "joking" ],
+         "student_gap" : 1.0,
+         "student_name" : "zhou haifan",
+         "student_num" : "03150423081146748252"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Sat.19:00-21:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "hgleezla", "qesltlte", "ycrqmsaz" ],
+         "interest" : [ "swimming", "peace", "careful" ],
+         "student_gap" : 4.0,
+         "student_name" : "wei jiaqing",
+         "student_num" : "03150459887891028681"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Fri.19:00-21:00", "Tue.19:00-21:00" ],
+         "intention_dep" : [ "zewzzwci", "ycrqmsaz", "tgpzlfhh" ],
+         "interest" : [ "joking", "swimming", "loving" ],
+         "student_gap" : 5.0,
+         "student_name" : "wang haipeng",
+         "student_num" : "03150494292708696027"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Sun.14:00-16:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "vsvofnca", "hgexshbn", "phqfalow" ],
+         "interest" : [ "loving", "running", "happy" ],
+         "student_gap" : 2.0,
+         "student_name" : "chu zhengming",
+         "student_num" : "03150240775183814821"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Mon.19:00-21:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "vsvofnca", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "painting", "swimming", "loving" ],
+         "student_gap" : 10.0,
+         "student_name" : "wei chaofan",
+         "student_num" : "03150673262218274200"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Wed.21:00-23:00", "Tue.19:00-21:00" ],
+         "intention_dep" : [ "tlnfbmge", "qesltlte", "nsyiocqs" ],
+         "interest" : [ "happy", "loving", "joking" ],
+         "student_gap" : 2.0,
+         "student_name" : "sun fanghui",
+         "student_num" : "03150404041637311053"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Sat.19:00-21:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "wcczxkpq", "tlnfbmge", "ycrqmsaz" ],
+         "interest" : [ "dancing", "girls", "joking" ],
+         "student_gap" : 8.0,
+         "student_name" : "han pengti",
+         "student_num" : "03150181776580452920"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Sat.20:00-22:00", "Sun.13:00-15:00" ],
+         "intention_dep" : [ "yvbuzazq", "vsvofnca", "ycrqmsaz" ],
+         "interest" : [ "fighting", "dancing", "sincere" ],
+         "student_gap" : 5.0,
+         "student_name" : "zhou wenyang",
+         "student_num" : "03150597897783777579"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Tue.21:00-23:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "hgleezla", "tlnfbmge", "qesltlte" ],
+         "interest" : [ "loving", "connecting", "grateful" ],
+         "student_gap" : 4.0,
+         "student_name" : "zhou zeha",
+         "student_num" : "03150151473914583466"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Fri.19:00-21:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "phqfalow", "gzxdjqil", "hgexshbn" ],
+         "interest" : [ "painting", "grateful", "girls" ],
+         "student_gap" : 3.0,
+         "student_name" : "wang haoliang",
+         "student_num" : "03150084272320375063"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Sat.21:00-23:00", "Sun.13:00-15:00" ],
+         "intention_dep" : [ "hgexshbn", "ycrqmsaz", "vsvofnca" ],
+         "interest" : [ "happy", "high", "peace" ],
+         "student_gap" : 6.0,
+         "student_name" : "shen zhizu",
+         "student_num" : "03150796271585659444"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Sun.17:00-19:00", "Mon.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "tgpzlfhh", "qesltlte" ],
+         "interest" : [ "connecting", "running", "peace" ],
+         "student_gap" : 3.0,
+         "student_name" : "cheng yufan",
+         "student_num" : "03150935636377731549"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Fri.19:00-21:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "azaajngi", "phqfalow", "tlnfbmge" ],
+         "interest" : [ "speaking", "painting", "girls" ],
+         "student_gap" : 2.0,
+         "student_name" : "han senchuan",
+         "student_num" : "03150486069553242142"
+      },
+      {
+         "available_time" : [ "Tue.21:00-23:00", "Thu.19:00-21:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "rldcnwda", "nsyiocqs", "qesltlte" ],
+         "interest" : [ "sincere", "speaking", "swimming" ],
+         "student_gap" : 7.0,
+         "student_name" : "han pengxin",
+         "student_num" : "03150539572096944634"
+      },
+      {
+         "available_time" : [ "Sun.14:00-16:00", "Thu.20:00-22:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "phqfalow", "tlnfbmge", "nsyiocqs" ],
+         "interest" : [ "joking", "high", "careful" ],
+         "student_gap" : 10.0,
+         "student_name" : "wang fangha",
+         "student_num" : "03150982148662103980"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Sat.20:00-22:00", "Sun.14:00-16:00" ],
+         "intention_dep" : [ "tgpzlfhh", "ycrqmsaz", "vsvofnca" ],
+         "interest" : [ "connecting", "running", "sincere" ],
+         "student_gap" : 5.0,
+         "student_name" : "wei huiliang",
+         "student_num" : "03150213859215514359"
+      },
+      {
+         "available_time" : [ "Sun.18:00-20:00", "Tue.21:00-23:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "sugdnxos", "hgexshbn", "tlnfbmge" ],
+         "interest" : [ "dancing", "sincere", "singing" ],
+         "student_gap" : 9.0,
+         "student_name" : "zhao haiqing",
+         "student_num" : "03150951800105141413"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Thu.21:00-23:00", "Fri.19:00-21:00" ],
+         "intention_dep" : [ "zewzzwci", "nsyiocqs", "ycrqmsaz" ],
+         "interest" : [ "fighting", "connecting", "girls" ],
+         "student_gap" : 4.0,
+         "student_name" : "jiang lanliang",
+         "student_num" : "03150114458885846278"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Fri.21:00-23:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "phqfalow", "tgpzlfhh", "nsyiocqs" ],
+         "interest" : [ "running", "girls", "peace" ],
+         "student_gap" : 7.0,
+         "student_name" : "feng tingfan",
+         "student_num" : "03150534930009399464"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Wed.19:00-21:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "qesltlte", "ycrqmsaz", "gzxdjqil" ],
+         "interest" : [ "fighting", "speaking", "connecting" ],
+         "student_gap" : 10.0,
+         "student_name" : "wei tingxuan",
+         "student_num" : "03150912515787981535"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Thu.21:00-23:00", "Sun.20:00-22:00" ],
+         "intention_dep" : [ "zewzzwci", "qesltlte", "tgpzlfhh" ],
+         "interest" : [ "swimming", "dancing", "careful" ],
+         "student_gap" : 9.0,
+         "student_name" : "qian xiongchuan",
+         "student_num" : "03150061209375109677"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Mon.21:00-23:00", "Fri.19:00-21:00" ],
+         "intention_dep" : [ "mnpboiou", "qesltlte", "hgexshbn" ],
+         "interest" : [ "grateful", "sincere", "painting" ],
+         "student_gap" : 5.0,
+         "student_name" : "wu fumao",
+         "student_num" : "03150822307058999951"
+      },
+      {
+         "available_time" : [ "Sun.19:00-21:00", "Wed.20:00-22:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "rldcnwda", "tlnfbmge", "phqfalow" ],
+         "interest" : [ "painting", "running", "high" ],
+         "student_gap" : 6.0,
+         "student_name" : "li xiongwu",
+         "student_num" : "03150327881639943021"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Wed.21:00-23:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "zewzzwci", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "sincere", "speaking", "dancing" ],
+         "student_gap" : 8.0,
+         "student_name" : "dong_fang penghan",
+         "student_num" : "03150447961397592702"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Fri.20:00-22:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "wcczxkpq", "hgexshbn", "qesltlte" ],
+         "interest" : [ "sincere", "running", "girls" ],
+         "student_gap" : 7.0,
+         "student_name" : "ou_yang huifan",
+         "student_num" : "03150659870108751388"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Tue.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "ajrtdowc", "hgexshbn", "gzxdjqil" ],
+         "interest" : [ "singing", "dancing", "girls" ],
+         "student_gap" : 2.0,
+         "student_name" : "jiang lanliang",
+         "student_num" : "03150135572459125869"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Tue.20:00-22:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "tlnfbmge", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "loving", "high", "grateful" ],
+         "student_gap" : 10.0,
+         "student_name" : "li zeshe",
+         "student_num" : "03150896047920282655"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Tue.21:00-23:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "hgexshbn", "tgpzlfhh", "phqfalow" ],
+         "interest" : [ "grateful", "dancing", "connecting" ],
+         "student_gap" : 8.0,
+         "student_name" : "zheng lanha",
+         "student_num" : "03150458051986578987"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Wed.19:00-21:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "lcrmnmnc", "qesltlte", "nsyiocqs" ],
+         "interest" : [ "singing", "careful", "sincere" ],
+         "student_gap" : 3.0,
+         "student_name" : "feng hangfan",
+         "student_num" : "03150506039271269486"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Sun.17:00-19:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "yvbuzazq", "nsyiocqs", "qesltlte" ],
+         "interest" : [ "fighting", "careful", "running" ],
+         "student_gap" : 4.0,
+         "student_name" : "shen lanxuan",
+         "student_num" : "03150808535808354532"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Mon.20:00-22:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "mnpboiou", "qesltlte", "hgexshbn" ],
+         "interest" : [ "peace", "happy", "dancing" ],
+         "student_gap" : 5.0,
+         "student_name" : "han lanqing",
+         "student_num" : "03150869469616141467"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Mon.19:00-21:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "hgexshbn", "ycrqmsaz", "vsvofnca" ],
+         "interest" : [ "grateful", "fighting", "peace" ],
+         "student_gap" : 2.0,
+         "student_name" : "feng haidi",
+         "student_num" : "03150037057219683283"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Wed.20:00-22:00", "Fri.19:00-21:00" ],
+         "intention_dep" : [ "sugdnxos", "gzxdjqil", "tlnfbmge" ],
+         "interest" : [ "happy", "high", "swimming" ],
+         "student_gap" : 6.0,
+         "student_name" : "qian haoliang",
+         "student_num" : "03150157954831733855"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Sun.15:00-17:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "phqfalow", "ycrqmsaz", "tlnfbmge" ],
+         "interest" : [ "speaking", "careful", "swimming" ],
+         "student_gap" : 3.0,
+         "student_name" : "sun yulan",
+         "student_num" : "03150232986072193898"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Thu.21:00-23:00", "Tue.19:00-21:00" ],
+         "intention_dep" : [ "rldcnwda", "tlnfbmge", "vsvofnca" ],
+         "interest" : [ "happy", "singing", "peace" ],
+         "student_gap" : 4.0,
+         "student_name" : "yang haomao",
+         "student_num" : "03150459110578032293"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Fri.19:00-21:00", "Sun.17:00-19:00" ],
+         "intention_dep" : [ "rldcnwda", "vsvofnca", "gzxdjqil" ],
+         "interest" : [ "careful", "painting", "happy" ],
+         "student_gap" : 9.0,
+         "student_name" : "li jiaqiang",
+         "student_num" : "03150815617304359538"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Wed.20:00-22:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "lcrmnmnc", "ycrqmsaz", "gzxdjqil" ],
+         "interest" : [ "swimming", "happy", "painting" ],
+         "student_gap" : 4.0,
+         "student_name" : "yang haihua",
+         "student_num" : "03150714547454184489"
+      },
+      {
+         "available_time" : [ "Tue.21:00-23:00", "Sun.17:00-19:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "lcrmnmnc", "hgexshbn", "qesltlte" ],
+         "interest" : [ "sincere", "joking", "connecting" ],
+         "student_gap" : 10.0,
+         "student_name" : "chu zewei",
+         "student_num" : "03150694288850906016"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Mon.21:00-23:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "ycrqmsaz", "nsyiocqs", "qesltlte" ],
+         "interest" : [ "girls", "painting", "sincere" ],
+         "student_gap" : 4.0,
+         "student_name" : "wu junhua",
+         "student_num" : "03150137459976021014"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Sat.21:00-23:00", "Sun.13:00-15:00" ],
+         "intention_dep" : [ "phqfalow", "tgpzlfhh", "qesltlte" ],
+         "interest" : [ "swimming", "dancing", "grateful" ],
+         "student_gap" : 8.0,
+         "student_name" : "sun junwen",
+         "student_num" : "03150403033719212465"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Fri.20:00-22:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "yvbuzazq", "phqfalow", "gzxdjqil" ],
+         "interest" : [ "high", "fighting", "speaking" ],
+         "student_gap" : 4.0,
+         "student_name" : "yang zhongyang",
+         "student_num" : "03150054471523286652"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Tue.19:00-21:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "vsvofnca", "tgpzlfhh", "nsyiocqs" ],
+         "interest" : [ "careful", "connecting", "singing" ],
+         "student_gap" : 7.0,
+         "student_name" : "qian yuming",
+         "student_num" : "03150088516122134072"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Tue.21:00-23:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "vmtqksab", "phqfalow", "tgpzlfhh" ],
+         "interest" : [ "careful", "high", "painting" ],
+         "student_gap" : 6.0,
+         "student_name" : "yang zhifan",
+         "student_num" : "03150715828969900006"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Tue.20:00-22:00", "Sun.19:00-21:00" ],
+         "intention_dep" : [ "tgpzlfhh", "gzxdjqil", "phqfalow" ],
+         "interest" : [ "joking", "happy", "careful" ],
+         "student_gap" : 2.0,
+         "student_name" : "wang fangha",
+         "student_num" : "03150471955973957431"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Mon.21:00-23:00", "Tue.19:00-21:00" ],
+         "intention_dep" : [ "hgexshbn", "vsvofnca", "ycrqmsaz" ],
+         "interest" : [ "grateful", "happy", "dancing" ],
+         "student_gap" : 8.0,
+         "student_name" : "sun shaofan",
+         "student_num" : "03150450385744426052"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Tue.19:00-21:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "hgleezla", "vsvofnca", "tgpzlfhh" ],
+         "interest" : [ "grateful", "singing", "connecting" ],
+         "student_gap" : 2.0,
+         "student_name" : "shen xulin",
+         "student_num" : "03150594483034300547"
+      },
+      {
+         "available_time" : [ "Sun.19:00-21:00", "Wed.20:00-22:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "mnpboiou", "phqfalow", "gzxdjqil" ],
+         "interest" : [ "dancing", "careful", "sincere" ],
+         "student_gap" : 1.0,
+         "student_name" : "dong_fang penghan",
+         "student_num" : "03150206918971904759"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Fri.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "tlnfbmge", "gzxdjqil", "nsyiocqs" ],
+         "interest" : [ "speaking", "sincere", "connecting" ],
+         "student_gap" : 5.0,
+         "student_name" : "dong_fang chaopeng",
+         "student_num" : "03150353731666870046"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sun.18:00-20:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "tgpzlfhh", "phqfalow", "hgexshbn" ],
+         "interest" : [ "connecting", "running", "painting" ],
+         "student_gap" : 7.0,
+         "student_name" : "ou_yang yuwen",
+         "student_num" : "03150137424804388801"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Thu.21:00-23:00", "Wed.19:00-21:00" ],
+         "intention_dep" : [ "ajrtdowc", "vsvofnca", "hgexshbn" ],
+         "interest" : [ "careful", "running", "swimming" ],
+         "student_gap" : 7.0,
+         "student_name" : "han pengchuan",
+         "student_num" : "03150248248560694265"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Tue.20:00-22:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "tlnfbmge", "tgpzlfhh", "phqfalow" ],
+         "interest" : [ "running", "dancing", "speaking" ],
+         "student_gap" : 8.0,
+         "student_name" : "han tingcheng",
+         "student_num" : "03150323219991041292"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Thu.19:00-21:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "nsyiocqs", "tlnfbmge", "tgpzlfhh" ],
+         "interest" : [ "high", "fighting", "sincere" ],
+         "student_gap" : 1.0,
+         "student_name" : "bai_ma fanglin",
+         "student_num" : "03150905515076312784"
+      },
+      {
+         "available_time" : [ "Thu.21:00-23:00", "Tue.19:00-21:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "tgpzlfhh", "vsvofnca", "qesltlte" ],
+         "interest" : [ "sincere", "running", "loving" ],
+         "student_gap" : 3.0,
+         "student_name" : "wu chenfan",
+         "student_num" : "03150983067030408028"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Sat.19:00-21:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "ycrqmsaz", "nsyiocqs" ],
+         "interest" : [ "joking", "girls", "swimming" ],
+         "student_gap" : 2.0,
+         "student_name" : "ou_yang hantianjin",
+         "student_num" : "03150313711556612767"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Thu.20:00-22:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "zewzzwci", "phqfalow", "nsyiocqs" ],
+         "interest" : [ "singing", "high", "happy" ],
+         "student_gap" : 6.0,
+         "student_name" : "li huiqing",
+         "student_num" : "03150799986910491086"
+      },
+      {
+         "available_time" : [ "Sun.16:00-18:00", "Tue.20:00-22:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "hgleezla", "ycrqmsaz", "gzxdjqil" ],
+         "interest" : [ "swimming", "running", "sincere" ],
+         "student_gap" : 5.0,
+         "student_name" : "zhao jiejie",
+         "student_num" : "03150080871663797231"
+      },
+      {
+         "available_time" : [ "Sun.19:00-21:00", "Tue.19:00-21:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "vsvofnca", "gzxdjqil", "tlnfbmge" ],
+         "interest" : [ "dancing", "singing", "careful" ],
+         "student_gap" : 6.0,
+         "student_name" : "han yuming",
+         "student_num" : "03150415908979275910"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Tue.19:00-21:00", "Sun.19:00-21:00" ],
+         "intention_dep" : [ "wcczxkpq", "hgexshbn", "tlnfbmge" ],
+         "interest" : [ "loving", "fighting", "careful" ],
+         "student_gap" : 6.0,
+         "student_name" : "bai_ma haozhe",
+         "student_num" : "03150912591204836055"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Mon.21:00-23:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "lcrmnmnc", "hgexshbn", "ycrqmsaz" ],
+         "interest" : [ "girls", "connecting", "careful" ],
+         "student_gap" : 9.0,
+         "student_name" : "yang chaotao",
+         "student_num" : "03150427846278357039"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Mon.19:00-21:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "mnpboiou", "qesltlte", "hgexshbn" ],
+         "interest" : [ "swimming", "peace", "grateful" ],
+         "student_gap" : 8.0,
+         "student_name" : "dong_fang penghan",
+         "student_num" : "03150878334214100564"
+      },
+      {
+         "available_time" : [ "Sun.15:00-17:00", "Sat.19:00-21:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "hgexshbn", "gzxdjqil", "phqfalow" ],
+         "interest" : [ "grateful", "sincere", "high" ],
+         "student_gap" : 5.0,
+         "student_name" : "yang chaolin",
+         "student_num" : "03150576292628536153"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Mon.19:00-21:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "phqfalow", "gzxdjqil" ],
+         "interest" : [ "running", "girls", "high" ],
+         "student_gap" : 2.0,
+         "student_name" : "zhou zeha",
+         "student_num" : "03150017366416924674"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Mon.21:00-23:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "qesltlte", "tlnfbmge" ],
+         "interest" : [ "fighting", "running", "happy" ],
+         "student_gap" : 6.0,
+         "student_name" : "jiang chenxin",
+         "student_num" : "03150154938302335646"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Mon.21:00-23:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "gzxdjqil", "qesltlte", "tlnfbmge" ],
+         "interest" : [ "loving", "sincere", "happy" ],
+         "student_gap" : 5.0,
+         "student_name" : "ou_yang yuwen",
+         "student_num" : "03150849208042691271"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Tue.21:00-23:00", "Sun.16:00-18:00" ],
+         "intention_dep" : [ "ycrqmsaz", "qesltlte", "hgexshbn" ],
+         "interest" : [ "careful", "peace", "running" ],
+         "student_gap" : 3.0,
+         "student_name" : "wei jiaqing",
+         "student_num" : "03150376080484222844"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Sat.19:00-21:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "ycrqmsaz", "hgexshbn", "vsvofnca" ],
+         "interest" : [ "singing", "grateful", "connecting" ],
+         "student_gap" : 8.0,
+         "student_name" : "cheng huihan",
+         "student_num" : "03150094989710368984"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Tue.19:00-21:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "tlnfbmge", "phqfalow", "hgexshbn" ],
+         "interest" : [ "painting", "running", "singing" ],
+         "student_gap" : 8.0,
+         "student_name" : "bai_ma junfan",
+         "student_num" : "03150867924644118455"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Wed.20:00-22:00", "Sun.14:00-16:00" ],
+         "intention_dep" : [ "yvbuzazq", "qesltlte", "vsvofnca" ],
+         "interest" : [ "connecting", "speaking", "girls" ],
+         "student_gap" : 1.0,
+         "student_name" : "shen zhicheng",
+         "student_num" : "03150281577959396139"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Mon.20:00-22:00", "Fri.19:00-21:00" ],
+         "intention_dep" : [ "ajrtdowc", "vsvofnca", "qesltlte" ],
+         "interest" : [ "running", "joking", "girls" ],
+         "student_gap" : 1.0,
+         "student_name" : "wei jiaqing",
+         "student_num" : "03150888027087003056"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sun.20:00-22:00", "Thu.19:00-21:00" ],
+         "intention_dep" : [ "mnpboiou", "gzxdjqil", "phqfalow" ],
+         "interest" : [ "peace", "fighting", "girls" ],
+         "student_gap" : 4.0,
+         "student_name" : "shen xulin",
+         "student_num" : "03150804345774631681"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Sun.19:00-21:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "ycrqmsaz", "gzxdjqil", "vsvofnca" ],
+         "interest" : [ "speaking", "running", "high" ],
+         "student_gap" : 3.0,
+         "student_name" : "wei senwei",
+         "student_num" : "03150060680373224594"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Sat.21:00-23:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "hgexshbn", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "high", "peace", "girls" ],
+         "student_gap" : 9.0,
+         "student_name" : "zhou haifan",
+         "student_num" : "03150011900046096731"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Mon.20:00-22:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "phqfalow", "hgexshbn", "nsyiocqs" ],
+         "interest" : [ "fighting", "singing", "sincere" ],
+         "student_gap" : 1.0,
+         "student_name" : "zhu_ge tingzu",
+         "student_num" : "03150287504324709649"
+      },
+      {
+         "available_time" : [ "Wed.21:00-23:00", "Sun.16:00-18:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "lcrmnmnc", "phqfalow", "tgpzlfhh" ],
+         "interest" : [ "running", "sincere", "swimming" ],
+         "student_gap" : 4.0,
+         "student_name" : "dong_fang fangming",
+         "student_num" : "03150679208602633198"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Tue.19:00-21:00", "Sun.16:00-18:00" ],
+         "intention_dep" : [ "zewzzwci", "nsyiocqs", "ycrqmsaz" ],
+         "interest" : [ "sincere", "happy", "singing" ],
+         "student_gap" : 1.0,
+         "student_name" : "yang chaolin",
+         "student_num" : "03150873747359992984"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Tue.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "qesltlte", "tlnfbmge", "tgpzlfhh" ],
+         "interest" : [ "peace", "fighting", "running" ],
+         "student_gap" : 4.0,
+         "student_name" : "wei lingti",
+         "student_num" : "03150379581457438854"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Tue.21:00-23:00", "Sun.20:00-22:00" ],
+         "intention_dep" : [ "wcczxkpq", "qesltlte", "vsvofnca" ],
+         "interest" : [ "girls", "running", "loving" ],
+         "student_gap" : 7.0,
+         "student_name" : "wei shaojin",
+         "student_num" : "03150187243316581688"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Sun.14:00-16:00", "Tue.19:00-21:00" ],
+         "intention_dep" : [ "vmtqksab", "tgpzlfhh", "phqfalow" ],
+         "interest" : [ "happy", "connecting", "sincere" ],
+         "student_gap" : 8.0,
+         "student_name" : "cheng jiejian",
+         "student_num" : "03150456353272495040"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Fri.19:00-21:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "sugdnxos", "ycrqmsaz", "tlnfbmge" ],
+         "interest" : [ "careful", "joking", "speaking" ],
+         "student_gap" : 7.0,
+         "student_name" : "zhou pengha",
+         "student_num" : "03150378322804137341"
+      },
+      {
+         "available_time" : [ "Sun.18:00-20:00", "Wed.20:00-22:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "yvbuzazq", "gzxdjqil", "ycrqmsaz" ],
+         "interest" : [ "joking", "girls", "fighting" ],
+         "student_gap" : 1.0,
+         "student_name" : "qian fudi",
+         "student_num" : "03150211680574949640"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Thu.21:00-23:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "vmtqksab", "qesltlte", "vsvofnca" ],
+         "interest" : [ "girls", "speaking", "painting" ],
+         "student_gap" : 4.0,
+         "student_name" : "han chenwu",
+         "student_num" : "03150197114929191035"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Fri.19:00-21:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "mnpboiou", "vsvofnca", "phqfalow" ],
+         "interest" : [ "high", "grateful", "girls" ],
+         "student_gap" : 10.0,
+         "student_name" : "bai_ma hongliang",
+         "student_num" : "03150472482478122049"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Sun.19:00-21:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "ycrqmsaz", "qesltlte", "vsvofnca" ],
+         "interest" : [ "swimming", "careful", "singing" ],
+         "student_gap" : 4.0,
+         "student_name" : "han pengchuan",
+         "student_num" : "03150515938470026666"
+      },
+      {
+         "available_time" : [ "Sun.16:00-18:00", "Wed.19:00-21:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "zewzzwci", "nsyiocqs", "hgexshbn" ],
+         "interest" : [ "running", "loving", "grateful" ],
+         "student_gap" : 5.0,
+         "student_name" : "shen wenqing",
+         "student_num" : "03150908505198538614"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Sat.20:00-22:00", "Wed.19:00-21:00" ],
+         "intention_dep" : [ "hgexshbn", "ycrqmsaz", "tgpzlfhh" ],
+         "interest" : [ "speaking", "swimming", "happy" ],
+         "student_gap" : 3.0,
+         "student_name" : "wei fulin",
+         "student_num" : "03150629624222901577"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Wed.20:00-22:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "ajrtdowc", "phqfalow", "vsvofnca" ],
+         "interest" : [ "loving", "speaking", "joking" ],
+         "student_gap" : 8.0,
+         "student_name" : "wu zhijin",
+         "student_num" : "03150930963402146281"
+      },
+      {
+         "available_time" : [ "Sun.16:00-18:00", "Mon.19:00-21:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "azaajngi", "ycrqmsaz", "nsyiocqs" ],
+         "interest" : [ "speaking", "singing", "swimming" ],
+         "student_gap" : 1.0,
+         "student_name" : "shen lanxuan",
+         "student_num" : "03150653458267666165"
+      },
+      {
+         "available_time" : [ "Sun.14:00-16:00", "Tue.19:00-21:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "hgexshbn", "phqfalow", "qesltlte" ],
+         "interest" : [ "painting", "girls", "singing" ],
+         "student_gap" : 8.0,
+         "student_name" : "feng junha",
+         "student_num" : "03150423453172130761"
+      },
+      {
+         "available_time" : [ "Fri.21:00-23:00", "Thu.21:00-23:00", "Mon.20:00-22:00" ],
+         "intention_dep" : [ "wcczxkpq", "nsyiocqs", "ycrqmsaz" ],
+         "interest" : [ "connecting", "girls", "loving" ],
+         "student_gap" : 6.0,
+         "student_name" : "yang haijie",
+         "student_num" : "03150551467212837019"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Thu.19:00-21:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "tlnfbmge", "gzxdjqil", "qesltlte" ],
+         "interest" : [ "happy", "girls", "loving" ],
+         "student_gap" : 10.0,
+         "student_name" : "dong_fang yupeng",
+         "student_num" : "03150788338908417721"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Sun.16:00-18:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "ycrqmsaz", "vsvofnca", "gzxdjqil" ],
+         "interest" : [ "high", "loving", "sincere" ],
+         "student_gap" : 10.0,
+         "student_name" : "bai_ma hongliang",
+         "student_num" : "03150497753857265265"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Sun.16:00-18:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "sugdnxos", "gzxdjqil", "phqfalow" ],
+         "interest" : [ "happy", "joking", "painting" ],
+         "student_gap" : 6.0,
+         "student_name" : "han pengti",
+         "student_num" : "03150059999474817622"
+      },
+      {
+         "available_time" : [ "Tue.19:00-21:00", "Sat.21:00-23:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "gzxdjqil", "phqfalow", "hgexshbn" ],
+         "interest" : [ "high", "painting", "joking" ],
+         "student_gap" : 3.0,
+         "student_name" : "wang zhijie",
+         "student_num" : "03150859087350820959"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Sat.19:00-21:00", "Tue.21:00-23:00" ],
+         "intention_dep" : [ "rldcnwda", "hgexshbn", "ycrqmsaz" ],
+         "interest" : [ "speaking", "grateful", "dancing" ],
+         "student_gap" : 9.0,
+         "student_name" : "wei shaojin",
+         "student_num" : "03150330932264027943"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Tue.21:00-23:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "wcczxkpq", "ycrqmsaz", "qesltlte" ],
+         "interest" : [ "painting", "dancing", "loving" ],
+         "student_gap" : 5.0,
+         "student_name" : "wei haozu",
+         "student_num" : "03150766102067945676"
+      },
+      {
+         "available_time" : [ "Tue.20:00-22:00", "Wed.19:00-21:00", "Mon.20:00-22:00" ],
+         "intention_dep" : [ "sugdnxos", "hgexshbn", "nsyiocqs" ],
+         "interest" : [ "painting", "happy", "loving" ],
+         "student_gap" : 5.0,
+         "student_name" : "han pengchuan",
+         "student_num" : "03150090345975783429"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Tue.21:00-23:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "vsvofnca", "tlnfbmge", "tgpzlfhh" ],
+         "interest" : [ "painting", "speaking", "connecting" ],
+         "student_gap" : 8.0,
+         "student_name" : "zhou haoming",
+         "student_num" : "03150022979875876678"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Mon.20:00-22:00", "Wed.19:00-21:00" ],
+         "intention_dep" : [ "sugdnxos", "gzxdjqil", "hgexshbn" ],
+         "interest" : [ "connecting", "careful", "fighting" ],
+         "student_gap" : 3.0,
+         "student_name" : "han chenwu",
+         "student_num" : "03150131780448320450"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Fri.19:00-21:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "nsyiocqs", "tgpzlfhh", "hgexshbn" ],
+         "interest" : [ "girls", "peace", "singing" ],
+         "student_gap" : 4.0,
+         "student_name" : "dong_fang penghan",
+         "student_num" : "03150911268286099681"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Tue.20:00-22:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "ycrqmsaz", "gzxdjqil", "vsvofnca" ],
+         "interest" : [ "peace", "happy", "grateful" ],
+         "student_gap" : 7.0,
+         "student_name" : "wu zhijin",
+         "student_num" : "03150454250019985520"
+      },
+      {
+         "available_time" : [ "Fri.20:00-22:00", "Tue.20:00-22:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "hgexshbn", "tlnfbmge", "qesltlte" ],
+         "interest" : [ "dancing", "connecting", "grateful" ],
+         "student_gap" : 9.0,
+         "student_name" : "cheng huihan",
+         "student_num" : "03150587116792407776"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sat.20:00-22:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "rldcnwda", "hgexshbn", "gzxdjqil" ],
+         "interest" : [ "speaking", "connecting", "peace" ],
+         "student_gap" : 4.0,
+         "student_name" : "yang haoxin",
+         "student_num" : "03150592217502344941"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Tue.19:00-21:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "phqfalow", "tgpzlfhh", "nsyiocqs" ],
+         "interest" : [ "swimming", "happy", "dancing" ],
+         "student_gap" : 8.0,
+         "student_name" : "wang zhijie",
+         "student_num" : "03150362387131719450"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Sun.14:00-16:00", "Fri.20:00-22:00" ],
+         "intention_dep" : [ "hgleezla", "phqfalow", "tgpzlfhh" ],
+         "interest" : [ "painting", "swimming", "joking" ],
+         "student_gap" : 1.0,
+         "student_name" : "wang zhishe",
+         "student_num" : "03150953840928787077"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Sat.19:00-21:00", "Sun.15:00-17:00" ],
+         "intention_dep" : [ "zewzzwci", "ycrqmsaz", "phqfalow" ],
+         "interest" : [ "connecting", "dancing", "peace" ],
+         "student_gap" : 3.0,
+         "student_name" : "han pengxin",
+         "student_num" : "03150829809561387088"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Sun.19:00-21:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "mnpboiou", "qesltlte", "hgexshbn" ],
+         "interest" : [ "peace", "high", "painting" ],
+         "student_gap" : 4.0,
+         "student_name" : "dong_fang haobin",
+         "student_num" : "03150008342163143666"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Thu.21:00-23:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "phqfalow", "hgexshbn", "tgpzlfhh" ],
+         "interest" : [ "high", "singing", "running" ],
+         "student_gap" : 5.0,
+         "student_name" : "wu chenfan",
+         "student_num" : "03150534202506717132"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Thu.19:00-21:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "mnpboiou", "qesltlte", "nsyiocqs" ],
+         "interest" : [ "peace", "connecting", "grateful" ],
+         "student_gap" : 7.0,
+         "student_name" : "zhu_ge zhenglin",
+         "student_num" : "03150539220254240386"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Fri.21:00-23:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "lcrmnmnc", "qesltlte", "tgpzlfhh" ],
+         "interest" : [ "painting", "sincere", "girls" ],
+         "student_gap" : 4.0,
+         "student_name" : "li fuxuan",
+         "student_num" : "03150700059306144504"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Tue.21:00-23:00", "Mon.20:00-22:00" ],
+         "intention_dep" : [ "vsvofnca", "qesltlte", "nsyiocqs" ],
+         "interest" : [ "joking", "connecting", "painting" ],
+         "student_gap" : 4.0,
+         "student_name" : "zhao zhijin",
+         "student_num" : "03150008757873190490"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Sun.20:00-22:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "gzxdjqil", "qesltlte", "hgexshbn" ],
+         "interest" : [ "dancing", "sincere", "peace" ],
+         "student_gap" : 5.0,
+         "student_name" : "sun shaofan",
+         "student_num" : "03150921660467088208"
+      },
+      {
+         "available_time" : [ "Sun.14:00-16:00", "Fri.21:00-23:00", "Wed.21:00-23:00" ],
+         "intention_dep" : [ "hgleezla", "nsyiocqs", "ycrqmsaz" ],
+         "interest" : [ "singing", "joking", "happy" ],
+         "student_gap" : 4.0,
+         "student_name" : "bai_ma linghua",
+         "student_num" : "03150009107833306620"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Tue.21:00-23:00", "Mon.20:00-22:00" ],
+         "intention_dep" : [ "yvbuzazq", "gzxdjqil", "tgpzlfhh" ],
+         "interest" : [ "sincere", "loving", "peace" ],
+         "student_gap" : 4.0,
+         "student_name" : "wei chaofan",
+         "student_num" : "03150759654407555617"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Fri.20:00-22:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "lcrmnmnc", "tgpzlfhh", "hgexshbn" ],
+         "interest" : [ "joking", "happy", "grateful" ],
+         "student_gap" : 8.0,
+         "student_name" : "li xulan",
+         "student_num" : "03150330690923038224"
+      },
+      {
+         "available_time" : [ "Tue.21:00-23:00", "Fri.20:00-22:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "tgpzlfhh", "nsyiocqs", "hgexshbn" ],
+         "interest" : [ "grateful", "speaking", "joking" ],
+         "student_gap" : 2.0,
+         "student_name" : "wu zhijin",
+         "student_num" : "03150346146923722798"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Tue.19:00-21:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "gzxdjqil", "tgpzlfhh", "vsvofnca" ],
+         "interest" : [ "dancing", "girls", "sincere" ],
+         "student_gap" : 10.0,
+         "student_name" : "cheng jiejian",
+         "student_num" : "03150284983158569807"
+      },
+      {
+         "available_time" : [ "Sat.20:00-22:00", "Thu.19:00-21:00", "Sun.16:00-18:00" ],
+         "intention_dep" : [ "rldcnwda", "vsvofnca", "phqfalow" ],
+         "interest" : [ "happy", "girls", "careful" ],
+         "student_gap" : 2.0,
+         "student_name" : "zheng hangjin",
+         "student_num" : "03150038942604620688"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sun.20:00-22:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "tgpzlfhh", "tlnfbmge" ],
+         "interest" : [ "peace", "careful", "singing" ],
+         "student_gap" : 1.0,
+         "student_name" : "bai_ma fanglin",
+         "student_num" : "03150477943616048289"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Sat.19:00-21:00", "Sun.18:00-20:00" ],
+         "intention_dep" : [ "ycrqmsaz", "gzxdjqil", "hgexshbn" ],
+         "interest" : [ "happy", "fighting", "singing" ],
+         "student_gap" : 9.0,
+         "student_name" : "feng chaomao",
+         "student_num" : "03150380068200674101"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Sat.21:00-23:00", "Tue.19:00-21:00" ],
+         "intention_dep" : [ "phqfalow", "vsvofnca", "ycrqmsaz" ],
+         "interest" : [ "girls", "happy", "sincere" ],
+         "student_gap" : 1.0,
+         "student_name" : "cheng lanxin",
+         "student_num" : "03150533206856380094"
+      },
+      {
+         "available_time" : [ "Wed.19:00-21:00", "Thu.21:00-23:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "nsyiocqs", "tlnfbmge", "ycrqmsaz" ],
+         "interest" : [ "dancing", "careful", "painting" ],
+         "student_gap" : 5.0,
+         "student_name" : "cheng shaoyang",
+         "student_num" : "03150150517784098850"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Tue.21:00-23:00", "Mon.21:00-23:00" ],
+         "intention_dep" : [ "hgleezla", "tgpzlfhh", "vsvofnca" ],
+         "interest" : [ "fighting", "running", "happy" ],
+         "student_gap" : 7.0,
+         "student_name" : "li huiqing",
+         "student_num" : "03150179202788284200"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Wed.20:00-22:00", "Sat.19:00-21:00" ],
+         "intention_dep" : [ "tgpzlfhh", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "peace", "high", "joking" ],
+         "student_gap" : 9.0,
+         "student_name" : "han pengxin",
+         "student_num" : "03150513390773291819"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Sun.14:00-16:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "vmtqksab", "phqfalow", "vsvofnca" ],
+         "interest" : [ "grateful", "running", "dancing" ],
+         "student_gap" : 9.0,
+         "student_name" : "shen zhizu",
+         "student_num" : "03150851475978370702"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Fri.20:00-22:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "sugdnxos", "gzxdjqil", "nsyiocqs" ],
+         "interest" : [ "fighting", "happy", "careful" ],
+         "student_gap" : 7.0,
+         "student_name" : "zheng shaopeng",
+         "student_num" : "03150606731510899402"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Fri.19:00-21:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "gzxdjqil", "tlnfbmge", "nsyiocqs" ],
+         "interest" : [ "loving", "connecting", "peace" ],
+         "student_gap" : 6.0,
+         "student_name" : "wang chaolin",
+         "student_num" : "03150515098319675147"
+      },
+      {
+         "available_time" : [ "Thu.21:00-23:00", "Sun.20:00-22:00", "Sat.21:00-23:00" ],
+         "intention_dep" : [ "tlnfbmge", "tgpzlfhh", "vsvofnca" ],
+         "interest" : [ "painting", "fighting", "sincere" ],
+         "student_gap" : 4.0,
+         "student_name" : "feng haidi",
+         "student_num" : "03150200665782076974"
+      },
+      {
+         "available_time" : [ "Sun.20:00-22:00", "Mon.19:00-21:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "tlnfbmge", "qesltlte", "hgexshbn" ],
+         "interest" : [ "fighting", "peace", "dancing" ],
+         "student_gap" : 3.0,
+         "student_name" : "feng tingfan",
+         "student_num" : "03150571831270312717"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Wed.21:00-23:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "ajrtdowc", "hgexshbn", "tlnfbmge" ],
+         "interest" : [ "peace", "connecting", "sincere" ],
+         "student_gap" : 3.0,
+         "student_name" : "qian xulin",
+         "student_num" : "03150785843694015221"
+      },
+      {
+         "available_time" : [ "Sun.18:00-20:00", "Sat.20:00-22:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "vsvofnca", "nsyiocqs", "phqfalow" ],
+         "interest" : [ "careful", "fighting", "loving" ],
+         "student_gap" : 6.0,
+         "student_name" : "dong_fang hangjian",
+         "student_num" : "03150386884808465197"
+      },
+      {
+         "available_time" : [ "Wed.20:00-22:00", "Fri.20:00-22:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "rldcnwda", "nsyiocqs", "gzxdjqil" ],
+         "interest" : [ "speaking", "singing", "happy" ],
+         "student_gap" : 3.0,
+         "student_name" : "zhao haojian",
+         "student_num" : "03150153264541151371"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Sat.19:00-21:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "vsvofnca", "gzxdjqil", "qesltlte" ],
+         "interest" : [ "high", "speaking", "girls" ],
+         "student_gap" : 3.0,
+         "student_name" : "dong_fang hongha",
+         "student_num" : "03150573552753486202"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Mon.19:00-21:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "sugdnxos", "tlnfbmge", "nsyiocqs" ],
+         "interest" : [ "high", "sincere", "joking" ],
+         "student_gap" : 9.0,
+         "student_name" : "han pengti",
+         "student_num" : "03150050833676045604"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Thu.19:00-21:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "tgpzlfhh", "tlnfbmge", "gzxdjqil" ],
+         "interest" : [ "connecting", "peace", "grateful" ],
+         "student_gap" : 10.0,
+         "student_name" : "dong_fang yupeng",
+         "student_num" : "03150424459577248493"
+      },
+      {
+         "available_time" : [ "Mon.21:00-23:00", "Sat.20:00-22:00", "Thu.21:00-23:00" ],
+         "intention_dep" : [ "gzxdjqil", "qesltlte", "vsvofnca" ],
+         "interest" : [ "singing", "sincere", "dancing" ],
+         "student_gap" : 8.0,
+         "student_name" : "zheng hangjin",
+         "student_num" : "03150044407330369340"
+      },
+      {
+         "available_time" : [ "Sat.21:00-23:00", "Wed.21:00-23:00", "Tue.20:00-22:00" ],
+         "intention_dep" : [ "rldcnwda", "tgpzlfhh", "tlnfbmge" ],
+         "interest" : [ "fighting", "speaking", "connecting" ],
+         "student_gap" : 3.0,
+         "student_name" : "dong_fang yupeng",
+         "student_num" : "03150172746277544120"
+      },
+      {
+         "available_time" : [ "Fri.19:00-21:00", "Thu.19:00-21:00", "Mon.19:00-21:00" ],
+         "intention_dep" : [ "zewzzwci", "tgpzlfhh", "gzxdjqil" ],
+         "interest" : [ "joking", "loving", "careful" ],
+         "student_gap" : 2.0,
+         "student_name" : "wang huipeng",
+         "student_num" : "03150846401808352804"
+      },
+      {
+         "available_time" : [ "Thu.20:00-22:00", "Wed.19:00-21:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "sugdnxos", "hgexshbn", "qesltlte" ],
+         "interest" : [ "happy", "girls", "loving" ],
+         "student_gap" : 10.0,
+         "student_name" : "wu junhua",
+         "student_num" : "03150507560296787118"
+      },
+      {
+         "available_time" : [ "Thu.19:00-21:00", "Sat.19:00-21:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "phqfalow", "vsvofnca", "gzxdjqil" ],
+         "interest" : [ "sincere", "painting", "joking" ],
+         "student_gap" : 7.0,
+         "student_name" : "zhao haiqing",
+         "student_num" : "03150163701972366504"
+      },
+      {
+         "available_time" : [ "Sun.18:00-20:00", "Mon.21:00-23:00", "Sat.20:00-22:00" ],
+         "intention_dep" : [ "ajrtdowc", "ycrqmsaz", "hgexshbn" ],
+         "interest" : [ "painting", "sincere", "grateful" ],
+         "student_gap" : 2.0,
+         "student_name" : "cheng haiti",
+         "student_num" : "03150684222105963933"
+      },
+      {
+         "available_time" : [ "Mon.20:00-22:00", "Fri.19:00-21:00", "Wed.20:00-22:00" ],
+         "intention_dep" : [ "tlnfbmge", "ycrqmsaz", "nsyiocqs" ],
+         "interest" : [ "speaking", "loving", "fighting" ],
+         "student_gap" : 3.0,
+         "student_name" : "li pengcheng",
+         "student_num" : "03150072238683456338"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Sun.13:00-15:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "wcczxkpq", "vsvofnca", "ycrqmsaz" ],
+         "interest" : [ "painting", "connecting", "singing" ],
+         "student_gap" : 6.0,
+         "student_name" : "chu xiongwen",
+         "student_num" : "03150414957967973450"
+      },
+      {
+         "available_time" : [ "Mon.19:00-21:00", "Sun.15:00-17:00", "Thu.20:00-22:00" ],
+         "intention_dep" : [ "gzxdjqil", "ycrqmsaz", "nsyiocqs" ],
+         "interest" : [ "swimming", "joking", "high" ],
+         "student_gap" : 7.0,
+         "student_name" : "cheng lanxin",
+         "student_num" : "03150864426423529480"
+      },
+      {
+         "available_time" : [ "Sat.19:00-21:00", "Thu.21:00-23:00", "Fri.21:00-23:00" ],
+         "intention_dep" : [ "azaajngi", "ycrqmsaz", "vsvofnca" ],
+         "interest" : [ "peace", "fighting", "loving" ],
+         "student_gap" : 10.0,
+         "student_name" : "dong_fang fangming",
+         "student_num" : "03150857632722257174"
+      }
+   ]
+}
