@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\se\sudoku\sudoku\sudoku\main.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  sudoku.vcxproj -> G:\SE\Sudoku\sudoku\Debug\sudoku.exe
+  sudoku.vcxproj -> G:\SE\Sudoku\sudoku\Debug\sudoku.pdb (Partial PDB)
